@@ -16,7 +16,7 @@ import java.util.Date;
      *  Change History:
      * <ul>
      * <li>2017-04-18 - Alpha 1.0 </li>
-     * </ul>S
+     * </ul>
      * @Author Mitchell Welvang.
      * @version Alpha 1. 
      */
