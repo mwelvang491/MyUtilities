@@ -12,7 +12,7 @@ import java.util.Date;
     /**
      * Date Utilities is a Class containing various methods intended to make
      * working with LocalDateTime Objects more streamlined.
-     * 
+     * <p> 
      *  Change History:
      * <ul>
      * <li>2017-04-18 - Alpha 1.0 </li>
@@ -36,7 +36,7 @@ public class DateUtilities  {
     
     /** 
      * This Method converts A String ...(Not Sure How To Describe String date)... Into A Local Date Object. 
-     * @param String date
+     * @param date is a String....
      * @return LocalDate Object 
      * @throws IllegalArgumentException thrown if String date is null or empty. 
      */
